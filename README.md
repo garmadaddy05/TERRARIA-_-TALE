@@ -1,2 +1,2 @@
 #TERRARIATALE
-![](images/terrariatale%20logo.png)
+![](master/terrrariatale%20logo.png)
