@@ -1,0 +1,3 @@
+author = Abram Trench
+version = 0.1
+displayName = TERRARIA-TALE
