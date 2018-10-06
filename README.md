@@ -1,1 +1,3 @@
-![](images/TERRARIATALE%20LOGO.png)
+#TERRARIA-_-TALE
+
+![](images/TERRARIATALE LOGO.png)
